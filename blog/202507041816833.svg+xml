@@ -1,0 +1,57 @@
+<svg id="trophy-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 106.8 128" style="enable-background:new 0 0 106.8 128">
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="96.1244" y1="91.9075" x2="19.1874" y2="99.9255" gradientTransform="matrix(1 0 0 -1 0 130)">
+    <stop offset="0" stop-color="#fbbc04"/>
+    <stop offset=".401" stop-color="#fbbc04"/>
+    <stop offset=".861" stop-color="#ea8600"/>
+    <stop offset="1" stop-color="#ea8600"/>
+  </linearGradient>
+  <path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M87.9 3.8c0 0-2.8 7.5-4.6 13.6 4.2.6 12.8 1.4 12.8 1.4L27.4 64.3l-8.2-15L87.9 3.8z"/>
+  <linearGradient id="Rectangle_1_copy_1_" gradientUnits="userSpaceOnUse" x1="81.6446" y1="52.4109" x2="29.4546" y2="80.1609" gradientTransform="matrix(1 0 0 -1 0 130)">
+    <stop offset="0" stop-color="#ea8600"/>
+    <stop offset=".354" stop-color="#ea8600"/>
+    <stop offset="1" stop-color="#fbbc04"/>
+  </linearGradient>
+  <path id="Rectangle_1_copy" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Rectangle_1_copy_1_)" d="M91.6 60l.3 17.6L19.5 67.5l-.3-17.6L91.6 60z"/>
+  <linearGradient id="Rectangle_1_copy_3_1_" gradientUnits="userSpaceOnUse" x1="92.1252" y1="12.8268" x2="19.1882" y2="28.3308" gradientTransform="matrix(1 0 0 -1 0 130)">
+    <stop offset="0" stop-color="#fbbc04"/>
+    <stop offset="1" stop-color="#ea8600"/>
+  </linearGradient>
+  <path id="Rectangle_1_copy_3" fill-rule="evenodd" fill="url(#Rectangle_1_copy_3_1_)" d="M91.8 109.4c0 0-8.3 5.7-10.8 7.5 2.1 2 11.1 10.1 11.1 10.1l-72.6-17.6-.3-17.6L91.8 109.4z"/>
+  <path fill-rule="evenodd" fill="#ea4335" d="M25.4 41.5l57.3-.3-26.9 73.3L25.4 41.5z"/>
+  <g>
+    <defs>
+      <path id="SVGID_2_" d="M25.4 41.5l57.3-.3-26.9 73.3L25.4 41.5z"/>
+    </defs>
+    <clipPath id="SVGID_3_">
+      <use xlink:href="#SVGID_2_" clip-rule="evenodd" style="overflow:visible"/>
+    </clipPath>
+    <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="53.6044" y1="131.9754" x2="54.6866" y2="69.9544" gradientTransform="matrix(1 0 0 -1 0 130)">
+      <stop offset="0" stop-color="#a50e0e"/>
+      <stop offset=".761" stop-color="#a50e0e"/>
+      <stop offset="1" stop-color="#852a70"/>
+    </linearGradient>
+    <path clip-path="url(#SVGID_3_)" fill-rule="evenodd" fill="url(#SVGID_4_)" d="M54.1-2c17.2-.1 31.3 13.8 31.3 31-.2 17.3-14.4 31.2-31.7 31-17-.2-30.8-14-31-31C22.9 11.8 36.9-2.1 54.1-2z"/>
+  </g>
+  <linearGradient id="Rectangle_1_copy_2_1_" gradientUnits="userSpaceOnUse" x1="12.4721" y1="25.2753" x2="92.0837" y2="62.3999" gradientTransform="matrix(1 0 0 -1 0 130)">
+    <stop offset="0" stop-color="#fbbc04"/>
+    <stop offset=".488" stop-color="#fbbc04"/>
+    <stop offset="1" stop-color="#feefc3"/>
+  </linearGradient>
+  <path id="Rectangle_1_copy_2" fill-rule="evenodd" fill="url(#Rectangle_1_copy_2_1_)" d="M91.8 59.9l.4 17.7c-24.2 10.6-48.4 21.2-72.6 31.8-.1-5.9-.2-11.9-.3-17.8L91.8 59.9z"/>
+  <path fill-rule="evenodd" fill="#58b57d" d="M22.4 23.6c6-.7 6.3 6.2 6.3 6.2l-5.2 5.3c0 0 .4-6.5-6.3-6.2C18.2 28 21.2 24.5 22.4 23.6z"/>
+  <path id="Rectangle_3_copy_4" fill-rule="evenodd" fill="#882766" d="M28.8 6.7c4.3 1.8 5 7.3 5 7.3l-3.4 2.2c-.3-3.2-2.2-5.9-5-7.3C26.1 8.6 27.9 7 28.8 6.7z"/>
+  <path id="Rectangle_3_copy" fill-rule="evenodd" fill="#f5685d" d="M41.3 37.8c2.3-2.3 2.9-5.7 1.6-8.7 2.8.9 4.4 1.6 6.2 2.2 1.2 2.9.3 6.3-2.2 8.2L41.3 37.8z"/>
+  <path id="Rectangle_3_copy_3" fill-rule="evenodd" fill="#99bbf4" d="M78.9 33.6c11.4-2.1 10.7-22.6 22.5-23.5 1.7 1.7 2 1.9 5.4 5.1C95.2 14.7 95 38.5 84.3 38.7 83 37.7 80.7 35.2 78.9 33.6z"/>
+  <path id="Rectangle_3_copy_2" fill-rule="evenodd" fill="#58b57d" d="M58.4 50.4c0-7.2 6.5-9.2 5.6-14.1 2.2 1 3.8 1.5 5.9 2.3.4 5.5-6.8 6.4-5.6 14.1C61.8 51.9 60.2 51.2 58.4 50.4z"/>
+  <path fill-rule="evenodd" fill="#cfdef9" d="M71.9 18.1c3.5-.1 6.4 2.7 6.5 6.2-.2 3.6-3.2 6.4-6.8 6.2-3.4-.2-6.1-2.9-6.2-6.2C65.5 20.8 68.4 18 71.9 18.1z"/>
+  <circle fill="#99bbf4" cx="55.6" cy="16.9" r="3.5"/>
+  <path id="Ellipse_3_copy" fill-rule="evenodd" fill="#58b57d" d="M61.2 4.3c.7.0 1.2.5 1.2 1.2s-.5 1.2-1.2 1.2c-.7.0-1.2-.5-1.2-1.2S60.5 4.3 61.2 4.3z"/>
+  <circle fill="#d2e2fd" cx="45.7" cy="50" r="1.4"/><circle id="Ellipse_4_copy" fill="#f5685d" cx="39.3" cy="14.8" r="1.4"/>
+  <circle id="Ellipse_4_copy_2" fill="#f5685d" cx="71.8" cy="45.9" r="1.4"/>
+  <linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="143.2856" y1="68.5184" x2="143.2856" y2="68.5184">
+    <stop offset="0" stop-color="#fbbc04"/>
+    <stop offset=".488" stop-color="#fbbc04"/>
+    <stop offset="1" stop-color="#feefc3"/>
+  </linearGradient>
+  <path fill-rule="evenodd" fill="url(#SVGID_5_)" d="M143.3 68.5"/>
+</svg>
